@@ -1,9 +1,6 @@
 import React from 'react';
 import Stylling from "./FullPage.module.css";
-
-
 import Card from "../Cards/Cards"
-
 import Footer from "../Footer/Footer"
 
 const FullPage = () => {
